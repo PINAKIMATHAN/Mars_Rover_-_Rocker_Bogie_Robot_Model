@@ -2,13 +2,30 @@
 
 This repository contains working model notes with detailed explanations, code, and diagrams for easy understanding. Explore different models to learn concepts and implementations effectively.
 
-📢 Related Videos / Previous Episodes::
+## 📢 Related Videos / Previous Episodes::
+
+Welcome to PART-1 of our DIY Rocker Bogie Robot series! In this episode, we dive deep into pipe cutting and elbow fitting techniques, essential for building a Mars Rover-inspired robot. This step-by-step guide is perfect for robotics enthusiasts, engineers, and DIY makers.
+
+🔹 What You’ll Learn:
+✅ How to accurately cut pipes for a robotic chassis
+✅ Techniques for elbow fitting and assembling a sturdy frame
+✅ Pro tips for rocker bogie mechanism construction
 
 🎥 Part 1: 🚀 Mastering Pipe Cutting and Elbow Fitting| Mars Rover / Rocker Bogie Robot 🛠️
 Link: https://youtu.be/QNbdOrGssFk
 
+-------------------------------------------------------------------------------------------------------------------------
+Welcome to PART-2 of our DIY Rocker Bogie Robot series! In this episode, we focus on assembling PVC pipes, wheels, and motors to create a fully movable robotic chassis. If you're working on a Mars Rover-inspired project, this guide will help you build a sturdy and functional base for your robot.
+
+🔹 What You’ll Learn:
+✅ How to attach wheels and motors securely
+✅ PVC pipe assembly for a stable frame
+✅ Motor driver connections for smooth movement
+
 🎥 Part 2: 🚀 Creating Movable Projects with PVC Pipes, Wheels, and Motors 🛠️
 Link: https://youtu.be/T2OvM0Xn_P8
+
+-------------------------------------------------------------------------------------------------------------------------
 
 🎥 Part 3: 📦 Crafting a Tool Base from a Carton Box for Electronics | DIY Guide 🔧
 Link: https://youtu.be/V6GNPXs93yI
